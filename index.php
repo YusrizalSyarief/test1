@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>caoba lagi </h1>
+    <h2>baru 2</h2>
 </body>
 </html>
